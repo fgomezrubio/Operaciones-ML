@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Actualización de GitHub
 # Obtener el directorio donde se encuentra este script
 BASE_DIR="$(cd "$(dirname "$0")" && pwd)"
 
